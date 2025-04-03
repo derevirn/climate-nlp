@@ -1,4 +1,4 @@
-# Stop words
+# Stop words b
 STOP_WORDS = set(
     """
 a about above across after afterwards again against all almost alone along
